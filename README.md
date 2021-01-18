@@ -20,7 +20,7 @@ LED
 Screen
 Battery Holder
 
-User manual / how to use
+User manual / how to use <br/>
 Grab the smart shopping basket
 Scan products and put it in the basket
 Go to humanless cashier
