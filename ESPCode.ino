@@ -20,8 +20,8 @@
 #include <ESP8266WiFi.h>
 //#include <WiFiClientSecure.h>
 #include <ESP8266HTTPClient.h>
-//#include <SoftwareSerial.h>
-//SoftwareSerial mySerial(3, 1);  // RX, TX
+#include <SoftwareSerial.h>
+SoftwareSerial mySerial(3, 1);  // RX, TX
 
 #ifndef STASSID
 #define STASSID "M.E.S"
