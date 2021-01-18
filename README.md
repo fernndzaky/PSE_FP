@@ -5,6 +5,7 @@ Pervasive Software Engineering Final Project
 
 <p align="center">
 Smart Shopping Basket
+http://chickennamban.000webhostapp.com/PSE/
 </p>
 
 The product of our project smart shopping basket, which is a scanner that is mounted to a shopping basket with the help of IoT and pervasive engineering. The reason we decided to execute the project is to help social distancing during the Covid-19 pandemic in Jakarta. So, we created this product to create a new method of payment in the cashier to decrease human interaction.
