@@ -9,22 +9,22 @@ Smart Shopping Basket
 
 The product of our project smart shopping basket, which is a scanner that is mounted to a shopping basket with the help of IoT and pervasive engineering. The reason we decided to execute the project is to help social distancing during the Covid-19 pandemic in Jakarta. So, we created this product to create a new method of payment in the cashier to decrease human interaction.
 
-The product’s components are:
-Arduino UNO R3
-USB Host Shield
-QR Code Scanner
-Wemos ESP8266
-Battery
-PIR Motion Sensor
-LED
-Screen
-Battery Holder
+The product’s components are: <br/><br/>
+Arduino UNO R3 <br/>
+USB Host Shield <br/>
+QR Code Scanner <br/>
+Wemos ESP8266 <br/>
+Battery <br/>
+PIR Motion Sensor <br/>
+LED <br/>
+Screen <br/>
+Battery Holder <br/>
 
 User manual / how to use <br/>
-Grab the smart shopping basket
-Scan products and put it in the basket
-Go to humanless cashier
-Choose your basket at the screen
-Pay with e-money and Walk off from the store
+Grab the smart shopping basket <br/>
+Scan products and put it in the basket <br/>
+Go to humanless cashier <br/>
+Choose your basket at the screen <br/>
+Pay with e-money and Walk off from the store <br/>
 
 
