@@ -20,8 +20,8 @@
 #include <ESP8266WiFi.h>
 //#include <WiFiClientSecure.h>
 #include <ESP8266HTTPClient.h>
-#include <SoftwareSerial.h>
-SoftwareSerial mySerial(3, 1);  // RX, TX
+//#include <SoftwareSerial.h>
+//SoftwareSerial mySerial(3, 1);  // RX, TX
 
 #ifndef STASSID
 #define STASSID "M.E.S"
@@ -45,9 +45,9 @@ String data = "";
 
 void setup() {
   pinMode(1, OUTPUT);
-     mySerial.begin(115200);
-   Serial.begin(115200);
-   while (WiFi.status() != WL_CONNECTED)
+  //vmySerial.begin(115200);
+  Serial.begin(115200);
+  while (WiFi.status() != WL_CONNECTED)
     connectWifi();
 }
 
